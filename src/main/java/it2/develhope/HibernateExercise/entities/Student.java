@@ -27,5 +27,4 @@ public class Student {
 
     @Column(unique = true, nullable = false)
     private String email;
-
 }
